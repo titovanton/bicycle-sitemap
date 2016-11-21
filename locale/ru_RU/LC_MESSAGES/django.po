@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-26 23:35+0300\n"
+"POT-Creation-Date: 2016-11-21 08:57+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,10 +17,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: bicycle/sitemap/models.py:9
+#: models.py:9
 msgid "Default value"
 msgstr "Значение по умолчанию"
 
-#: bicycle/sitemap/models.py:24
+#: models.py:24
 msgid "Priority in sitemap.xml"
 msgstr "Приоритет в sitemap.xml"
